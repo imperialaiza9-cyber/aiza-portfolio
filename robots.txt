@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flourishing-crumble-14f8d3.netlify.app/sitemap.xml
